@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
+<!--RECENT_ACTIVITY:last_update_end-->
